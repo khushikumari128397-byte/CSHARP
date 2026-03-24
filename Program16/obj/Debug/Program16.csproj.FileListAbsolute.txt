@@ -1,0 +1,7 @@
+D:\khushi7042\UNIT3\Program16\bin\Debug\Program16.exe.config
+D:\khushi7042\UNIT3\Program16\bin\Debug\Program16.exe
+D:\khushi7042\UNIT3\Program16\bin\Debug\Program16.pdb
+D:\khushi7042\UNIT3\Program16\obj\Debug\Program16.csproj.AssemblyReference.cache
+D:\khushi7042\UNIT3\Program16\obj\Debug\Program16.csproj.CoreCompileInputs.cache
+D:\khushi7042\UNIT3\Program16\obj\Debug\Program16.exe
+D:\khushi7042\UNIT3\Program16\obj\Debug\Program16.pdb
