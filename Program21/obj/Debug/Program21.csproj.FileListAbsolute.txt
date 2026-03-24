@@ -1,0 +1,7 @@
+D:\khushi7042\UNIT4\Program21\bin\Debug\Program21.exe.config
+D:\khushi7042\UNIT4\Program21\bin\Debug\Program21.exe
+D:\khushi7042\UNIT4\Program21\bin\Debug\Program21.pdb
+D:\khushi7042\UNIT4\Program21\obj\Debug\Program21.csproj.AssemblyReference.cache
+D:\khushi7042\UNIT4\Program21\obj\Debug\Program21.csproj.CoreCompileInputs.cache
+D:\khushi7042\UNIT4\Program21\obj\Debug\Program21.exe
+D:\khushi7042\UNIT4\Program21\obj\Debug\Program21.pdb
