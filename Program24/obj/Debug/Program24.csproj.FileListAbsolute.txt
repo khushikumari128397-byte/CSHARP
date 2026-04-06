@@ -1,0 +1,7 @@
+D:\khushi7042\UNIT4\Program24\bin\Debug\Program24.exe.config
+D:\khushi7042\UNIT4\Program24\bin\Debug\Program24.exe
+D:\khushi7042\UNIT4\Program24\bin\Debug\Program24.pdb
+D:\khushi7042\UNIT4\Program24\obj\Debug\Program24.csproj.AssemblyReference.cache
+D:\khushi7042\UNIT4\Program24\obj\Debug\Program24.csproj.CoreCompileInputs.cache
+D:\khushi7042\UNIT4\Program24\obj\Debug\Program24.exe
+D:\khushi7042\UNIT4\Program24\obj\Debug\Program24.pdb
