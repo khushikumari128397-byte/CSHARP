@@ -1,0 +1,7 @@
+D:\College\CSharp\khushi7042\UNIT4\Program26\bin\Debug\Program26.exe.config
+D:\College\CSharp\khushi7042\UNIT4\Program26\bin\Debug\Program26.exe
+D:\College\CSharp\khushi7042\UNIT4\Program26\bin\Debug\Program26.pdb
+D:\College\CSharp\khushi7042\UNIT4\Program26\obj\Debug\Program26.csproj.AssemblyReference.cache
+D:\College\CSharp\khushi7042\UNIT4\Program26\obj\Debug\Program26.csproj.CoreCompileInputs.cache
+D:\College\CSharp\khushi7042\UNIT4\Program26\obj\Debug\Program26.exe
+D:\College\CSharp\khushi7042\UNIT4\Program26\obj\Debug\Program26.pdb
